@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# cmake
+/build/
+
+# IDE
+.idea/
+.vscode/
